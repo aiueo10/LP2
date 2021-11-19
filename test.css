@@ -7,11 +7,12 @@ html {
 }
 
 .body100 {
-  width: 75%;
+  width: 80%;
   margin: 0 auto;
   text-align :center;
   font-size: 1.5em;
   text-align: center;
+  background-color: red;
  
 }
 .air  {
